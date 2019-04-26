@@ -2,7 +2,7 @@
 
 This seems like a good place to include a link to one of the organizations I'm responsible for:
 
-** Repair Cafe Mountain View **
+**Repair Cafe Mountain View**
 
 - [Website](http://repaircafemv.org)
 - [FB page](http://fb.com/RepairCafeMountainView)
